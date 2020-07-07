@@ -1,0 +1,26 @@
+.ballStyle {
+  border: none;
+  color: white;
+  padding: 30px;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 5px;
+  border-radius: 50%;
+  border: 1px black solid;
+}
+
+.color-white{
+  background-color: white;
+}
+.color-red{
+  background-color: red;
+}
+.color-blue{
+  background-color: blue;
+}
+.color-green{
+  background-color: green;
+}

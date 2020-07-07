@@ -1,0 +1,47 @@
+div{
+  background: whitesmoke;
+  text-align: center;
+  align-items: center;
+  margin: 70px;
+  margin-top: 10%;
+}
+
+body {
+  background: whitesmoke;
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+}
+
+h2 {
+  font-family: 'lOBSTER', sans serif;
+  margin: 8px 24px;
+  font-size: 1.75em;
+  font-weight: normal;
+  line-height: 0.8em;
+  color: #e3a900;
+  letter-spacing: 1.6px;
+}
+
+h4 {
+  font-family: 'lOBSTER', sans serif;
+  margin: 8px 24px;
+  font-size: 1.15em;
+  font-weight: normal;
+  line-height: 0.8em;
+  color: #056374;
+  letter-spacing: 1.6px;
+}
+
+.box {
+  background: rgb(74, 110, 207);
+  line-height: 10px height;
+  color: whitesmoke;
+  width: 50%;
+  margin: 10px auto;
+  padding: 13px;
+  font-size: 1.2 em;
+  text-align: center;
+}
